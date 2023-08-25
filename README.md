@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matheus Migge
-- 👀 I’m interested in Swift, Python, JavaScript and SQL
-- 🌱 I’m currently learning UIKit
+- 👀 I’m interested in IOS and web development
+- 🌱 I’m currently learning Swift UI and Bootstrap
 - 📫 How to reach me: :briefcase:	[LinkedIn](https://www.linkedin.com/in/matheusmigge/), :e-mail: [E-mail](matheusmigge@gmail.com), :camera_flash: [Instagram](https://www.instagram.com/matheusmigge/)
 
 <!---
