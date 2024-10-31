@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matheus Migge
-- 👀 I’m interested in IOS and web development
-- 🌱 I’m currently learning Swift UI and Bootstrap
+- 👀 I’m interested in IOS and Front-end web development
+- 🌱 I’m currently learning React and SwiftUI
 - 📫 How to reach me: :e-mail: [E-mail](matheusmigge@gmail.com)
 
 <!---
