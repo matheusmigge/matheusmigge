@@ -4,8 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-<!-- <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/> -->
-  <img height="350em" src="https://i.ibb.co/xKTn35TL/Fifizaum.png"/>
+  <img height="200em" src="https://i.ibb.co/xKTn35TL/Fifizaum.png"/>
 </div>
 
 <h3 align="center">
@@ -35,17 +34,18 @@ You can click the Preview link to take a look at your changes.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" alt="Cityscape" width="25" height="25" /> I'm a Front-End Web Developer at Softex Pernambuco’s Residency Program and an Education Programs Management Assistant at Porto Digital (NGPD).
 
 ## &nbsp;My Stack
-
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,angular,react,nodejs,bootstrap,figma,java,spring,swift,git,github,mysql&theme=dark&perline=20" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,angular,react,nodejs,bootstrap,figma,java,spring,swift,git,github,mysql&theme=dark&perline=20" />
+</div>
 
 #
 
 <h3>Contact Me</h3>
 <div align="left">
-<p>
-<a href="mailto:matheusmigge@gmail.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Gmail" width="50" height="50" /></a>
-<a href="https://www.linkedin.com/in/matheusmigge/"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Linkedin" width="50" height="50" /></a>
-<a href="https://www.instagram.com/matheusmigge/"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instaram" width="50" height="50" /></a></p>
+  <p>
+  <a href="mailto:matheusmigge@gmail.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Gmail" width="50" height="50" /></a>
+  <a href="https://www.linkedin.com/in/matheusmigge/"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Linkedin" width="50" height="50" /></a>
+  <a href="https://www.instagram.com/matheusmigge/"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instaram" width="50" height="50" /></a></p>
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
