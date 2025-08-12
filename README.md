@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> I aspire to become a Tech Leader.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is React/Angular, Java/Spring Boot, and MySQL.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I'm passionate about solving problems, sharing knowledge, and encouraging others to pursue their goals.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" alt="Cityscape" width="25" height="25" /> I'm a Front-End Web Developer at Softex Pernambuco’s Residency Program and an Education Programs Management Assistant at Porto Digital (NGPD).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape.png" alt="Cityscape" width="25" height="25" /> Full-Stack Developer Associate at Avanade and Education Programs Management Assistant at Porto Digital (NGPD).
 
 ## &nbsp;My Stack
 <div align="left">
