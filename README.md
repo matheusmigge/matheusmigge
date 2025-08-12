@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 ## &nbsp;My Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,angular,react,nodejs,bootstrap,figma,java,spring,swift,git,github,mysql&theme=dark&perline=20" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,angular,react,nodejs,bootstrap,tailwind,figma,java,spring,cs,dotnet,swift,git,github,mysql&theme=dark&perline=20" />
 </div>
 
 #
